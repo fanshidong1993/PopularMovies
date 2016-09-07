@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PopularMovies</string>
+    <string name="setting">Setting</string>
+    <string name="pref_way">Pop</string>
+    <string name="pref_way_key">sortwaykey</string>
+    <string name="title_way">Sort Way</string>
+    <string name="pref_way_title">Sort Way</string>
+</resources>
